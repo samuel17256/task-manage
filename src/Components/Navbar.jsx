@@ -3,7 +3,7 @@ import { IoNotificationsOutline } from "react-icons/io5";
 
 function Navbar() {
   return (
-    <nav className="flex flex-wrap justify-between items-center fixed top-0 left-0 w-full sm:z-50 bg-white shadow-md px-4 md:px-10 py-3 md:ml-64">
+    <nav className="flex flex-wrap justify-around items-center fixed top-0 left-0 w-full sm:z-50 bg-white shadow-md px-4 md:px-10 py-3 lg:ml-64 md:ml-64">
       <div className="flex flex-col mb-2 md:mb-0">
         <h1 className="text-base md:text-xl font-semibold text-gray-800">
           Good Morning, User!
